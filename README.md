@@ -2,7 +2,6 @@
 - Interning at Anstack.io
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently Exploring new things.
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach out to me at bhargavprince51@gmail.com
 
 <!---
