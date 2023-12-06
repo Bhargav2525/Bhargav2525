@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Bhargav2525
 - Interning at Anstack.io
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently Exploring new things.
-- 📫 Reach out to me at bhargavprince51@gmail.com
+- 📫 Problem Solver
 
 <!---
 Bhargav2525/Bhargav2525 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
