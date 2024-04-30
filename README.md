@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bhargav2525
-- Interning at Anstack.io
+- Backend Developer at Anstack.io
 - 👀 I’m interested in Software Development
 - 📫 Problem Solver
 
